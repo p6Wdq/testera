@@ -295,8 +295,6 @@ sudo eopkg install -y qbittorrent
 
 sudo eopkg install -y unbound
 
-sudo eopkg install -y youtube-dl
-
 sudo eopkg install -y vlc
 
 sudo eopkg install -y vidcutter
